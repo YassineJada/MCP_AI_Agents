@@ -38,8 +38,8 @@ Follow these steps to set up and run the application:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git
-   cd awesome-llm-apps/mcp_ai_agents/multi_mcp_agent
+   git clone https://github.com/YassineJada/MCP_AI_Agents.git
+   cd mcp_ai_agents/multi_mcp_agent
    ```
 
 2. **Install the dependencies**:
