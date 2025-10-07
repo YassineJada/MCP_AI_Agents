@@ -23,12 +23,15 @@ cd MCP_AI_Agents
 # For Python projects
 pip install -r requirements.txt
 
-
-
----
-
-Si tu veux, je peux te créer **une version améliorée avec badges GitHub, status CI/CD et captures d’écran de chaque agent**, pour que ton repo ait un look plus professionnel. Veux‑tu que je fasse ça ?
-
-
 # For Node.js / React Native projects
 npm install
+
+# Example for Python agents
+python ai_travel_planner_mcp_agent_team/main.py
+
+# Example for Node.js agents
+npm start
+
+
+
+
